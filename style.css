@@ -1,0 +1,111 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(156, 64, 65);
+}
+.navbar-toggler-icon{
+    background:rgb(188, 159, 51);
+    
+
+}
+.offcanvas-body{
+    background-color:rgb(23, 22, 22) ;
+}
+.navbar{
+    z-index: 1;
+    position: relative;
+}
+.offcanvas-body {
+    background-color: transparent;
+}
+.navbar-nav{
+    margin-left: 180px;
+}
+.nav-link{
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-1{
+    transform: translate(0px,-90px);
+    background-color: rgb(156, 64, 65);
+}
+.img-2{
+    transform: translate(0px,-85px);
+    background-color: rgb(156, 64, 65);
+}
+@media screen and (max-width:986px){
+    .offcanvas-body{
+        background-color: rgb(108, 117, 125);
+    }
+}
+.container-fluid{
+    background-color: rgb(156, 64, 65);
+}
+.messi{
+    background-color: rgb(156, 64, 65);
+}
+.div2{
+    background-color: rgb(156, 64, 65);
+}
+.about{
+    margin-top:-9px;
+}
+.para-2{
+    margin-top: -5vh;
+}
+.para-5{
+    margin-top: 2vh;
+    letter-spacing: 1px;
+    word-spacing: -1px;
+}
+.secnd-div-butt{
+margin-top: 14px;
+}
+.footer-1{
+    width: 100%;
+    height: 19vh;
+    background-color: rgb(28, 28, 28);
+}
+.footer-1-row{
+    background-color: rgb(28, 28, 28);
+    height: 19vh;
+}
+.colmn-1{
+    background-color: rgb(28, 28, 28);
+}
+
+.colmn-2{
+    background-color: rgb(28, 28, 28);
+}
+.footer1-left-text-up{
+    color: rgb(188, 159, 51);
+}
+.footer1-left-text-low{
+    color: rgb(188, 159, 51);
+}
+.secnd-div-butt2{
+    transform: translate(18vh,1vh);
+}
+.bt-contact-us{
+    transform: translate(16vh,0);
+}
+.footer-2{
+    background-color: rgb(28, 28, 28);
+    height: 25vh;
+}
+.footer2-row{
+    background-color: rgb(28, 28, 28);
+    height: 25vh;
+}
+.colmn-fot2-1{
+    background-color: rgb(28, 28, 28);
+}
+.colmn-fot2-2{
+    background-color: rgb(28, 28, 28);
+    color:rgb(188, 159, 51) ;
+}
+.colmn-fot2-3{
+    background-color: rgb(28, 28, 28);
+    color: rgb(188, 159, 51);
+}
